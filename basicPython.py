@@ -1,4 +1,4 @@
 a= int(input("Enter a number: "))
 b= int(input("Enter another number: "))
-c=a+b
-print("The sum of", a, "and", b, "is", c)
+addition=a+b
+print("The addition of", a, "and", b, "is", addition)
